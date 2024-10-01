@@ -1,0 +1,18 @@
+body
+{
+background-color:turquoise;
+
+}
+div 
+{
+background-color: rgb(215, 229, 235);
+margin: 10px;
+padding: 10px;
+}
+
+.completed
+{
+
+    color: grey;
+text-decoration-line: line-through;
+}
